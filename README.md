@@ -345,7 +345,7 @@ Importance of Issues and Project Boards on GitHub
 
 Issues are a built-in tool for tracking bugs, feature requests, and general project tasks. They serve as a centralized place to document, prioritize, and discuss work.
 
-    Features:
+   Features:
         Assign issues to contributors or teams.
         Label issues to categorize (e.g., "bug," "enhancement").
         Reference issues in commits or pull requests for context.
